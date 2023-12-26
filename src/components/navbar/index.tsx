@@ -15,7 +15,7 @@ export default function NavbarSection() {
 
   const navigation = [
     { title: "Home", path: "/" },
-    { title: "Portfolio", path: "/portfolio" },
+    // { title: "Portfolio", path: "/portfolio" },
     { title: "Services", path: "/services" },
     { title: "About", path: "/about-us" },
     // { title: "Blog", path: "/blog" },
